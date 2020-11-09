@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated />
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="CargoProjects">
+    <cargoProject FILE="$PROJECT_DIR$/Cargo.toml" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="5385c542-7919-42c6-a072-3450efe90277" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Rust File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MacroExpansionManager">
+    <option name="directoryName" value="u5m4n1y8" />
+  </component>
+  <component name="ProjectId" id="1jyxZkReab3qfTfUtrYXzs460zw" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="cf.first.check.clang-format" value="false" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="org.rust.cargo.project.model.PROJECT_DISCOVERY" value="true" />
+    <property name="settings.editor.selected.configurable" value="language.rust.cargo" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/busa-http/benches" />
+      <recent name="$PROJECT_DIR$/busa-http/src/request" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Cargo.Test read::request::tests::read_request_simple">
+    <configuration name="Run" type="CargoCommandRunConfiguration" factoryName="Cargo Command">
+      <option name="channel" value="DEFAULT" />
+      <option name="command" value="run --package busa --bin busa" />
+      <option name="allFeatures" value="false" />
+      <option name="emulateTerminal" value="false" />
+      <option name="backtrace" value="SHORT" />
+      <option name="workingDirectory" value="file://$PROJECT_DIR$" />
+      <envs />
+      <method v="2">
+        <option name="CARGO.BUILD_TASK_PROVIDER" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test read::line::tests::test_read_line_complex" type="CargoCommandRunConfiguration" factoryName="Cargo Command" temporary="true">
+      <option name="channel" value="DEFAULT" />
+      <option name="command" value="test --package busa-http --lib read::line::tests::test_read_line_complex -- --exact" />
+      <option name="allFeatures" value="false" />
+      <option name="emulateTerminal" value="false" />
+      <option name="backtrace" value="SHORT" />
+      <option name="workingDirectory" value="file://$PROJECT_DIR$" />
+      <envs />
+      <method v="2">
+        <option name="CARGO.BUILD_TASK_PROVIDER" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test read::line::tests::test_read_line_simple" type="CargoCommandRunConfiguration" factoryName="Cargo Command" temporary="true">
+      <option name="channel" value="DEFAULT" />
+      <option name="command" value="test --package busa-http --lib read::line::tests::test_read_line_simple -- --exact" />
+      <option name="allFeatures" value="false" />
+      <option name="emulateTerminal" value="false" />
+      <option name="backtrace" value="SHORT" />
+      <option name="workingDirectory" value="file://$PROJECT_DIR$" />
+      <envs />
+      <method v="2">
+        <option name="CARGO.BUILD_TASK_PROVIDER" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test read::request::tests::read_line_simple" type="CargoCommandRunConfiguration" factoryName="Cargo Command" temporary="true">
+      <option name="channel" value="DEFAULT" />
+      <option name="command" value="test --package busa-http --lib read::request::tests::read_line_simple -- --exact" />
+      <option name="allFeatures" value="false" />
+      <option name="emulateTerminal" value="false" />
+      <option name="backtrace" value="SHORT" />
+      <option name="workingDirectory" value="file://$PROJECT_DIR$" />
+      <envs />
+      <method v="2">
+        <option name="CARGO.BUILD_TASK_PROVIDER" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test read::request::tests::read_request_simple" type="CargoCommandRunConfiguration" factoryName="Cargo Command" temporary="true">
+      <option name="channel" value="DEFAULT" />
+      <option name="command" value="test --package busa-http --lib read::request::tests::read_request_simple -- --exact" />
+      <option name="allFeatures" value="false" />
+      <option name="emulateTerminal" value="false" />
+      <option name="backtrace" value="SHORT" />
+      <option name="workingDirectory" value="file://$PROJECT_DIR$" />
+      <envs />
+      <method v="2">
+        <option name="CARGO.BUILD_TASK_PROVIDER" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="CargoCommandRunConfiguration" factoryName="Cargo Command">
+      <option name="channel" value="DEFAULT" />
+      <option name="command" value="run" />
+      <option name="allFeatures" value="false" />
+      <option name="emulateTerminal" value="false" />
+      <option name="backtrace" value="SHORT" />
+      <envs />
+      <method v="2">
+        <option name="CARGO.BUILD_TASK_PROVIDER" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="GradleAppRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true">
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.gradle.execution.GradleNativeBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Cargo.Test read::request::tests::read_request_simple" />
+        <item itemvalue="Cargo.Test read::request::tests::read_line_simple" />
+        <item itemvalue="Cargo.Test read::line::tests::test_read_line_complex" />
+        <item itemvalue="Cargo.Test read::line::tests::test_read_line_simple" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="RustProjectSettings">
+    <option name="externalLinter" value="Clippy" />
+    <option name="runExternalLinterOnTheFly" value="true" />
+    <option name="runRustfmtOnSave" value="true" />
+    <option name="toolchainHomeDirectory" value="$USER_HOME$/.cargo/bin" />
+    <option name="useRustfmt" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5385c542-7919-42c6-a072-3450efe90277" name="Default Changelist" comment="" />
+      <created>1604790190006</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1604790190006</updated>
+      <workItem from="1604790191241" duration="33144000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="321" y="365" key="#com.intellij.ide.util.MemberChooser" timestamp="1604894117778">
+      <screen x="0" y="25" width="2048" height="1255" />
+    </state>
+    <state x="321" y="365" key="#com.intellij.ide.util.MemberChooser/0.25.2048.1255@0.25.2048.1255" timestamp="1604894117778" />
+    <state width="953" height="422" key="GridCell.Tab.0.bottom" timestamp="1604896137756">
+      <screen x="0" y="25" width="2048" height="1255" />
+    </state>
+    <state width="953" height="422" key="GridCell.Tab.0.bottom/0.25.2048.1255@0.25.2048.1255" timestamp="1604896137756" />
+    <state width="953" height="422" key="GridCell.Tab.0.center" timestamp="1604896137755">
+      <screen x="0" y="25" width="2048" height="1255" />
+    </state>
+    <state width="953" height="422" key="GridCell.Tab.0.center/0.25.2048.1255@0.25.2048.1255" timestamp="1604896137755" />
+    <state width="953" height="422" key="GridCell.Tab.0.left" timestamp="1604896137755">
+      <screen x="0" y="25" width="2048" height="1255" />
+    </state>
+    <state width="953" height="422" key="GridCell.Tab.0.left/0.25.2048.1255@0.25.2048.1255" timestamp="1604896137755" />
+    <state width="953" height="422" key="GridCell.Tab.0.right" timestamp="1604896137755">
+      <screen x="0" y="25" width="2048" height="1255" />
+    </state>
+    <state width="953" height="422" key="GridCell.Tab.0.right/0.25.2048.1255@0.25.2048.1255" timestamp="1604896137755" />
+    <state width="953" height="422" key="GridCell.Tab.1.bottom" timestamp="1604896137756">
+      <screen x="0" y="25" width="2048" height="1255" />
+    </state>
+    <state width="953" height="422" key="GridCell.Tab.1.bottom/0.25.2048.1255@0.25.2048.1255" timestamp="1604896137756" />
+    <state width="953" height="422" key="GridCell.Tab.1.center" timestamp="1604896137756">
+      <screen x="0" y="25" width="2048" height="1255" />
+    </state>
+    <state width="953" height="422" key="GridCell.Tab.1.center/0.25.2048.1255@0.25.2048.1255" timestamp="1604896137756" />
+    <state width="953" height="422" key="GridCell.Tab.1.left" timestamp="1604896137756">
+      <screen x="0" y="25" width="2048" height="1255" />
+    </state>
+    <state width="953" height="422" key="GridCell.Tab.1.left/0.25.2048.1255@0.25.2048.1255" timestamp="1604896137756" />
+    <state width="953" height="422" key="GridCell.Tab.1.right" timestamp="1604896137756">
+      <screen x="0" y="25" width="2048" height="1255" />
+    </state>
+    <state width="953" height="422" key="GridCell.Tab.1.right/0.25.2048.1255@0.25.2048.1255" timestamp="1604896137756" />
+    <state x="17" y="281" key="SettingsEditor" timestamp="1604870369516">
+      <screen x="0" y="25" width="2048" height="1255" />
+    </state>
+    <state x="17" y="281" key="SettingsEditor/0.25.2048.1255@0.25.2048.1255" timestamp="1604870369516" />
+    <state x="242" y="493" key="vcs.readOnlyHandler.ReadOnlyStatusDialog" timestamp="1604867042049">
+      <screen x="0" y="25" width="2048" height="1255" />
+    </state>
+    <state x="242" y="493" key="vcs.readOnlyHandler.ReadOnlyStatusDialog/0.25.2048.1255@0.25.2048.1255" timestamp="1604867042049" />
+  </component>
+</project>
